@@ -7,3 +7,4 @@ y = 4
 z = 2 + 4
 print(z)
 
+print("Hello 3")
