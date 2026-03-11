@@ -7,6 +7,5 @@ y = 4
 z = 2 + 4
 print(z)
 
-print("Hello1")
-
-print("Hello, hello")
+print("Hello 3")
+print("hello yin")
