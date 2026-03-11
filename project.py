@@ -2,5 +2,11 @@ print("Hello world, how are you today")
 print("Thats great, Im good aswell")
 print("Hello")
 
-print("Hello 2")
-print("Hello2")
+x = 2
+y = 4
+z = 2 + 4
+print(z)
+
+print("Hello1")
+
+print("Hello, hello")
